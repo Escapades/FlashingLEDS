@@ -16,7 +16,7 @@ int main(void) {
 	init();
 	SetupTimerDelay(1000);
 	blinky_led();
-	
+	//Updated with a comment for github
 	for(;;) {
 
 	}
